@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.login-title {
+    background-color: green;
+}
+
+.login-form {
+    background-color: brown;
+}
+
+.login-footer {
+    background-color: blue;
+}
